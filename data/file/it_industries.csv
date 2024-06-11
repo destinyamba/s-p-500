@@ -1,65 +1,65 @@
-Security,GICS Sub-Industry,Headquarters Location
-Accenture,IT Consulting & Other Services,"Dublin, Ireland"
-Adobe Inc.,Application Software,"San Jose, California"
-Akamai,Internet Services & Infrastructure,"Cambridge, Massachusetts"
-Alexandria Real Estate Equities,Office REITs,"Pasadena, California"
-American Tower,Telecom Tower REITs,"Boston, Massachusetts"
-Ansys,Application Software,"Canonsburg, Pennsylvania"
-Apple Inc.,"Technology Hardware, Storage & Peripherals","Cupertino, California"
-Autodesk,Application Software,"San Francisco, California"
-AvalonBay Communities,Multi-Family Residential REITs,"Arlington, Virginia"
-Boston Properties,Office REITs,"Boston, Massachusetts"
-Cadence Design Systems,Application Software,"San Jose, California"
-Camden Property Trust,Multi-Family Residential REITs,"Houston, Texas"
-Cognizant,IT Consulting & Other Services,"Teaneck, New Jersey"
-Crown Castle,Telecom Tower REITs,"Houston, Texas"
-Digital Realty,Data Center REITs,"Austin, Texas"
-EPAM Systems,IT Consulting & Other Services,"Newtown, Pennsylvania"
-Equinix,Data Center REITs,"Redwood City, California"
-Equity Residential,Multi-Family Residential REITs,"Chicago, Illinois"
-Essex Property Trust,Multi-Family Residential REITs,"San Mateo, California"
-Extra Space Storage,Self-Storage REITs,"Salt Lake City, Utah"
-Fair Isaac,Application Software,"Bozeman, Montana"
-Federal Realty,Retail REITs,"Rockville, Maryland"
-Fortinet,Systems Software,"Sunnyvale, California"
-Gartner,IT Consulting & Other Services,"Stamford, Connecticut"
-Gen Digital,Systems Software,"Tempe, Arizona"
-Healthpeak,Health Care REITs,"Denver, Colorado"
-Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals","Houston, Texas"
-Host Hotels & Resorts,Hotel & Resort REITs,"Bethesda, Maryland"
-HP Inc.,"Technology Hardware, Storage & Peripherals","Palo Alto, California"
-IBM,IT Consulting & Other Services,"Armonk, New York"
-Intuit,Application Software,"Mountain View, California"
-Invitation Homes,Single-Family Residential REITs,"Dallas, Texas"
-Iron Mountain,Other Specialized REITs,"Boston, Massachusetts"
-Keysight,Electronic Equipment & Instruments,"Santa Rosa, California"
-Kimco Realty,Retail REITs,"New Hyde Park, New York"
-Microsoft,Systems Software,"Redmond, Washington"
-Mid-America Apartment Communities,Multi-Family Residential REITs,"Memphis, Tennessee"
-NetApp,"Technology Hardware, Storage & Peripherals","San Jose, California"
-Oracle Corporation,Application Software,"Austin, Texas"
-Palo Alto Networks,Systems Software,"Santa Clara, California"
-Prologis,Industrial REITs,"San Francisco, California"
-PTC,Application Software,"Boston, Massachusetts"
-Public Storage,Self-Storage REITs,"Glendale, California"
-Realty Income,Retail REITs,"San Diego, California"
-Regency Centers,Retail REITs,"Jacksonville, Florida"
-Roper Technologies,Electronic Equipment & Instruments,"Sarasota, Florida"
-Salesforce,Application Software,"San Francisco, California"
-SBA Communications,Telecom Tower REITs,"Boca Raton, Florida"
-Seagate Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland"
-ServiceNow,Systems Software,"Santa Clara, California"
-Simon Property Group,Retail REITs,"Indianapolis, Indiana"
-Supermicro,"Technology Hardware, Storage & Peripherals","San Jose, California"
-Synopsys,Application Software,"Sunnyvale, California"
-Teledyne Technologies,Electronic Equipment & Instruments,"Thousand Oaks, California"
-Trimble Inc.,Electronic Equipment & Instruments,"Westminster, Colorado"
-Tyler Technologies,Application Software,"Plano, Texas"
-"UDR, Inc.",Multi-Family Residential REITs,"Highlands Ranch, Colorado"
-Ventas,Health Care REITs,"Chicago, Illinois"
-Verisign,Internet Services & Infrastructure,"Dulles, Virginia"
-Vici Properties,Hotel & Resort REITs,"New York City, New York"
-Welltower,Health Care REITs,"Toledo, Ohio"
-Western Digital,"Technology Hardware, Storage & Peripherals","San Jose, California"
-Weyerhaeuser,Timber REITs,"Seattle, Washington"
-Zebra Technologies,Electronic Equipment & Instruments,"Lincolnshire, Illinois"
+Security,GICS Sub-Industry,Headquarters Location,hiring_software_engineers
+Accenture,IT Consulting & Other Services,"Dublin, Ireland",False
+Adobe Inc.,Application Software,"San Jose, California",False
+Akamai,Internet Services & Infrastructure,"Cambridge, Massachusetts",False
+Alexandria Real Estate Equities,Office REITs,"Pasadena, California",False
+American Tower,Telecom Tower REITs,"Boston, Massachusetts",False
+Ansys,Application Software,"Canonsburg, Pennsylvania",False
+Apple Inc.,"Technology Hardware, Storage & Peripherals","Cupertino, California",False
+Autodesk,Application Software,"San Francisco, California",False
+AvalonBay Communities,Multi-Family Residential REITs,"Arlington, Virginia",False
+Boston Properties,Office REITs,"Boston, Massachusetts",False
+Cadence Design Systems,Application Software,"San Jose, California",False
+Camden Property Trust,Multi-Family Residential REITs,"Houston, Texas",False
+Cognizant,IT Consulting & Other Services,"Teaneck, New Jersey",False
+Crown Castle,Telecom Tower REITs,"Houston, Texas",False
+Digital Realty,Data Center REITs,"Austin, Texas",False
+EPAM Systems,IT Consulting & Other Services,"Newtown, Pennsylvania",False
+Equinix,Data Center REITs,"Redwood City, California",False
+Equity Residential,Multi-Family Residential REITs,"Chicago, Illinois",False
+Essex Property Trust,Multi-Family Residential REITs,"San Mateo, California",False
+Extra Space Storage,Self-Storage REITs,"Salt Lake City, Utah",False
+Fair Isaac,Application Software,"Bozeman, Montana",False
+Federal Realty,Retail REITs,"Rockville, Maryland",False
+Fortinet,Systems Software,"Sunnyvale, California",False
+Gartner,IT Consulting & Other Services,"Stamford, Connecticut",False
+Gen Digital,Systems Software,"Tempe, Arizona",False
+Healthpeak,Health Care REITs,"Denver, Colorado",False
+Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals","Houston, Texas",False
+Host Hotels & Resorts,Hotel & Resort REITs,"Bethesda, Maryland",False
+HP Inc.,"Technology Hardware, Storage & Peripherals","Palo Alto, California",False
+IBM,IT Consulting & Other Services,"Armonk, New York",False
+Intuit,Application Software,"Mountain View, California",False
+Invitation Homes,Single-Family Residential REITs,"Dallas, Texas",False
+Iron Mountain,Other Specialized REITs,"Boston, Massachusetts",False
+Keysight,Electronic Equipment & Instruments,"Santa Rosa, California",False
+Kimco Realty,Retail REITs,"New Hyde Park, New York",False
+Microsoft,Systems Software,"Redmond, Washington",False
+Mid-America Apartment Communities,Multi-Family Residential REITs,"Memphis, Tennessee",False
+NetApp,"Technology Hardware, Storage & Peripherals","San Jose, California",False
+Oracle Corporation,Application Software,"Austin, Texas",False
+Palo Alto Networks,Systems Software,"Santa Clara, California",False
+Prologis,Industrial REITs,"San Francisco, California",False
+PTC,Application Software,"Boston, Massachusetts",False
+Public Storage,Self-Storage REITs,"Glendale, California",False
+Realty Income,Retail REITs,"San Diego, California",False
+Regency Centers,Retail REITs,"Jacksonville, Florida",False
+Roper Technologies,Electronic Equipment & Instruments,"Sarasota, Florida",False
+Salesforce,Application Software,"San Francisco, California",False
+SBA Communications,Telecom Tower REITs,"Boca Raton, Florida",False
+Seagate Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",False
+ServiceNow,Systems Software,"Santa Clara, California",False
+Simon Property Group,Retail REITs,"Indianapolis, Indiana",False
+Supermicro,"Technology Hardware, Storage & Peripherals","San Jose, California",False
+Synopsys,Application Software,"Sunnyvale, California",False
+Teledyne Technologies,Electronic Equipment & Instruments,"Thousand Oaks, California",False
+Trimble Inc.,Electronic Equipment & Instruments,"Westminster, Colorado",False
+Tyler Technologies,Application Software,"Plano, Texas",False
+"UDR, Inc.",Multi-Family Residential REITs,"Highlands Ranch, Colorado",False
+Ventas,Health Care REITs,"Chicago, Illinois",False
+Verisign,Internet Services & Infrastructure,"Dulles, Virginia",False
+Vici Properties,Hotel & Resort REITs,"New York City, New York",False
+Welltower,Health Care REITs,"Toledo, Ohio",False
+Western Digital,"Technology Hardware, Storage & Peripherals","San Jose, California",False
+Weyerhaeuser,Timber REITs,"Seattle, Washington",False
+Zebra Technologies,Electronic Equipment & Instruments,"Lincolnshire, Illinois",False

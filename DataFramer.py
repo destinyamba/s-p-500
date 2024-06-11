@@ -32,7 +32,6 @@ class DataFrameFilter:
     def __init__(self, df, column, filter_value):
         self.df = df
         self.column = column
-        # self.filter = filter
         self.filter_value = filter_value
 
 
@@ -65,6 +64,9 @@ non_it_industries_df = selected_df.drop(it_industries_df.index)
 
 # Add new column 'hiring_software_engineers' with all values set to False
 non_it_industries_df = non_it_industries_df.assign(hiring_software_engineers=False)
+it_industries_df = it_industries_df.assign(hiring_software_engineers=False)
 
 writer = DataFrameWriter(non_it_industries_df, './data/file/non_it_industries.csv')
+writer.write()
+writer = DataFrameWriter(it_industries_df, './data/file/it_industries.csv')
 writer.write()
