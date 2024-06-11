@@ -1,0 +1,440 @@
+Security,GICS Sub-Industry,Headquarters Location,hiring_software_engineers
+3M,Industrial Conglomerates,"Saint Paul, Minnesota",False
+A. O. Smith,Building Products,"Milwaukee, Wisconsin",False
+Abbott,Health Care Equipment,"North Chicago, Illinois",False
+AbbVie,Biotechnology,"North Chicago, Illinois",False
+Advanced Micro Devices,Semiconductors,"Santa Clara, California",False
+AES Corporation,Independent Power Producers & Energy Traders,"Arlington, Virginia",False
+Aflac,Life & Health Insurance,"Columbus, Georgia",False
+Agilent Technologies,Life Sciences Tools & Services,"Santa Clara, California",False
+Air Products and Chemicals,Industrial Gases,"Allentown, Pennsylvania",False
+Airbnb,"Hotels, Resorts & Cruise Lines","San Francisco, California",False
+Albemarle Corporation,Specialty Chemicals,"Charlotte, North Carolina",False
+Align Technology,Health Care Supplies,"Tempe, Arizona",False
+Allegion,Building Products,"Dublin, Ireland",False
+Alliant Energy,Electric Utilities,"Madison, Wisconsin",False
+Allstate,Property & Casualty Insurance,"Northbrook, Illinois",False
+Alphabet Inc. (Class A),Interactive Media & Services,"Mountain View, California",False
+Alphabet Inc. (Class C),Interactive Media & Services,"Mountain View, California",False
+Altria,Tobacco,"Richmond, Virginia",False
+Amazon,Broadline Retail,"Seattle, Washington",False
+Amcor,Paper & Plastic Packaging Products & Materials,"Warmley, Bristol, United Kingdom",False
+Ameren,Multi-Utilities,"St. Louis, Missouri",False
+American Airlines Group,Passenger Airlines,"Fort Worth, Texas",False
+American Electric Power,Electric Utilities,"Columbus, Ohio",False
+American Express,Consumer Finance,"New York City, New York",False
+American International Group,Multi-line Insurance,"New York City, New York",False
+American Water Works,Water Utilities,"Camden, New Jersey",False
+Ameriprise Financial,Asset Management & Custody Banks,"Minneapolis, Minnesota",False
+Ametek,Electrical Components & Equipment,"Berwyn, Pennsylvania",False
+Amgen,Biotechnology,"Thousand Oaks, California",False
+Amphenol,Electronic Components,"Wallingford, Connecticut",False
+Analog Devices,Semiconductors,"Wilmington, Massachusetts",False
+Aon,Insurance Brokers,"London, UK",False
+APA Corporation,Oil & Gas Exploration & Production,"Houston, Texas",False
+Applied Materials,Semiconductor Materials & Equipment,"Santa Clara, California",False
+Aptiv,Automotive Parts & Equipment,"Dublin, Ireland",False
+Arch Capital Group,Property & Casualty Insurance,"Hamilton, Bermuda",False
+Archer-Daniels-Midland,Agricultural Products & Services,"Chicago, Illinois",False
+Arista Networks,Communications Equipment,"Santa Clara, California",False
+Arthur J. Gallagher & Co.,Insurance Brokers,"Rolling Meadows, Illinois",False
+Assurant,Multi-line Insurance,"Atlanta, Georgia",False
+AT&T,Integrated Telecommunication Services,"Dallas, Texas",False
+Atmos Energy,Gas Utilities,"Dallas, Texas",False
+Automatic Data Processing,Human Resource & Employment Services,"Roseland, New Jersey",False
+AutoZone,Automotive Retail,"Memphis, Tennessee",False
+Avery Dennison,Paper & Plastic Packaging Products & Materials,"Mentor, Ohio",False
+Axon Enterprise,Aerospace & Defense,"Scottsdale, Arizona",False
+Baker Hughes,Oil & Gas Equipment & Services,"Houston, Texas",False
+Ball Corporation,"Metal, Glass & Plastic Containers","Broomfield, Colorado",False
+Bank of America,Diversified Banks,"Charlotte, North Carolina",False
+Bank of New York Mellon,Asset Management & Custody Banks,"New York City, New York",False
+"Bath & Body Works, Inc.",Other Specialty Retail,"Columbus, Ohio",False
+Baxter International,Health Care Equipment,"Deerfield, Illinois",False
+Becton Dickinson,Health Care Equipment,"Franklin Lakes, New Jersey",False
+Berkshire Hathaway,Multi-Sector Holdings,"Omaha, Nebraska",False
+Best Buy,Computer & Electronics Retail,"Richfield, Minnesota",False
+Bio-Rad,Life Sciences Tools & Services,"Hercules, California",False
+Bio-Techne,Life Sciences Tools & Services,"Minneapolis, Minnesota",False
+Biogen,Biotechnology,"Cambridge, Massachusetts",False
+BlackRock,Asset Management & Custody Banks,"New York City, New York",False
+Blackstone,Asset Management & Custody Banks,"New York City, New York",False
+Boeing,Aerospace & Defense,"Arlington, Virginia",False
+Booking Holdings,"Hotels, Resorts & Cruise Lines","Norwalk, Connecticut",False
+BorgWarner,Automotive Parts & Equipment,"Auburn Hills, Michigan",False
+Boston Scientific,Health Care Equipment,"Marlborough, Massachusetts",False
+Bristol Myers Squibb,Pharmaceuticals,"New York City, New York",False
+Broadcom Inc.,Semiconductors,"Palo Alto, California",False
+Broadridge Financial Solutions,Data Processing & Outsourced Services,"Lake Success, New York",False
+Brown & Brown,Insurance Brokers,"Daytona Beach, Florida",False
+Brown–Forman,Distillers & Vintners,"Louisville, Kentucky",False
+Builders FirstSource,Building Products,"Irving, Texas",False
+Bunge Global SA,Agricultural Products & Services,"Chesterfield, Missouri",False
+Caesars Entertainment,Casinos & Gaming,"Reno, Nevada",False
+Campbell Soup Company,Packaged Foods & Meats,"Camden, New Jersey",False
+Capital One,Consumer Finance,"Tysons Corner, Virginia",False
+Cardinal Health,Health Care Distributors,"Dublin, Ohio",False
+CarMax,Automotive Retail,"Richmond, Virginia",False
+Carnival,"Hotels, Resorts & Cruise Lines","Miami, Florida",False
+Carrier Global,Building Products,"Palm Beach Gardens, Florida",False
+Catalent,Pharmaceuticals,"Somerset, New Jersey",False
+Caterpillar Inc.,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",False
+Cboe Global Markets,Financial Exchanges & Data,"Chicago, Illinois",False
+CBRE Group,Real Estate Services,"Dallas, Texas",False
+CDW,Technology Distributors,"Vernon Hills, Illinois",False
+Celanese,Specialty Chemicals,"Irving, Texas",False
+Cencora,Health Care Distributors,"Conshohocken, Pennsylvania",False
+Centene Corporation,Managed Health Care,"St. Louis, Missouri",False
+CenterPoint Energy,Multi-Utilities,"Houston, Texas",False
+CF Industries,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",False
+CH Robinson,Air Freight & Logistics,"Eden Prairie, Minnesota",False
+Charles River Laboratories,Life Sciences Tools & Services,"Wilmington, Massachusetts",False
+Charles Schwab Corporation,Investment Banking & Brokerage,"Westlake, Texas",False
+Charter Communications,Cable & Satellite,"Stamford, Connecticut",False
+Chevron Corporation,Integrated Oil & Gas,"San Ramon, California",False
+Chipotle Mexican Grill,Restaurants,"Newport Beach, California",False
+Chubb Limited,Property & Casualty Insurance,"Zurich, Switzerland",False
+Church & Dwight,Household Products,"Ewing, New Jersey",False
+Cigna,Health Care Services,"Bloomfield, Connecticut",False
+Cincinnati Financial,Property & Casualty Insurance,"Fairfield, Ohio",False
+Cintas,Diversified Support Services,"Mason, Ohio",False
+Cisco,Communications Equipment,"San Jose, California",False
+Citigroup,Diversified Banks,"New York City, New York",False
+Citizens Financial Group,Regional Banks,"Providence, Rhode Island",False
+Clorox,Household Products,"Oakland, California",False
+CME Group,Financial Exchanges & Data,"Chicago, Illinois",False
+CMS Energy,Multi-Utilities,"Jackson, Michigan",False
+Coca-Cola Company (The),Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",False
+Colgate-Palmolive,Household Products,"New York City, New York",False
+Comcast,Cable & Satellite,"Philadelphia, Pennsylvania",False
+Comerica,Diversified Banks,"Dallas, Texas",False
+Conagra Brands,Packaged Foods & Meats,"Chicago, Illinois",False
+ConocoPhillips,Oil & Gas Exploration & Production,"Houston, Texas",False
+Consolidated Edison,Multi-Utilities,"New York City, New York",False
+Constellation Brands,Distillers & Vintners,"Victor, New York",False
+Constellation Energy,Electric Utilities,"Baltimore, Maryland",False
+CooperCompanies,Health Care Supplies,"San Ramon, California",False
+Copart,Diversified Support Services,"Dallas, Texas",False
+Corning Inc.,Electronic Components,"Corning, New York",False
+Corpay,Transaction & Payment Processing Services,"Atlanta, Georgia",False
+Corteva,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",False
+CoStar Group,Real Estate Services,"Washington, D.C.",False
+Costco,Consumer Staples Merchandise Retail,"Issaquah, Washington",False
+Coterra,Oil & Gas Exploration & Production,"Houston, Texas",False
+CSX,Rail Transportation,"Jacksonville, Florida",False
+Cummins,Construction Machinery & Heavy Transportation Equipment,"Columbus, Indiana",False
+CVS Health,Health Care Services,"Woonsocket, Rhode Island",False
+Danaher Corporation,Life Sciences Tools & Services,"Washington, D.C.",False
+Darden Restaurants,Restaurants,"Orlando, Florida",False
+DaVita Inc.,Health Care Services,"Denver, Colorado",False
+Dayforce,Human Resource & Employment Services,"Minneapolis, Minnesota",False
+Deckers Brands,Footwear,"Goleta, California",False
+John Deere,Agricultural & Farm Machinery,"Moline, Illinois",False
+Delta Air Lines,Passenger Airlines,"Atlanta, Georgia",False
+Devon Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",False
+Dexcom,Health Care Equipment,"San Diego, California",False
+Diamondback Energy,Oil & Gas Exploration & Production,"Midland, Texas",False
+Discover Financial,Consumer Finance,"Riverwoods, Illinois",False
+Dollar General,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",False
+Dollar Tree,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",False
+Dominion Energy,Multi-Utilities,"Richmond, Virginia",False
+Domino's,Restaurants,"Ann Arbor, Michigan",False
+Dover Corporation,Industrial Machinery & Supplies & Components,"Downers Grove, Illinois",False
+Dow Inc.,Commodity Chemicals,"Midland, Michigan",False
+DR Horton,Homebuilding,"Arlington, Texas",False
+DTE Energy,Multi-Utilities,"Detroit, Michigan",False
+Duke Energy,Electric Utilities,"Charlotte, North Carolina",False
+DuPont,Specialty Chemicals,"Wilmington, Delaware",False
+Eastman Chemical Company,Specialty Chemicals,"Kingsport, Tennessee",False
+Eaton Corporation,Electrical Components & Equipment,"Dublin, Ireland",False
+eBay,Broadline Retail,"San Jose, California",False
+Ecolab,Specialty Chemicals,"Saint Paul, Minnesota",False
+Edison International,Electric Utilities,"Rosemead, California",False
+Edwards Lifesciences,Health Care Equipment,"Irvine, California",False
+Electronic Arts,Interactive Home Entertainment,"Redwood City, California",False
+Elevance Health,Managed Health Care,"Indianapolis, Indiana",False
+Eli Lilly and Company,Pharmaceuticals,"Indianapolis, Indiana",False
+Emerson Electric,Electrical Components & Equipment,"Ferguson, Missouri",False
+Enphase,Semiconductor Materials & Equipment,"Fremont, California",False
+Entergy,Electric Utilities,"New Orleans, Louisiana",False
+EOG Resources,Oil & Gas Exploration & Production,"Houston, Texas",False
+EQT Corporation,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",False
+Equifax,Research & Consulting Services,"Atlanta, Georgia",False
+Estée Lauder Companies (The),Personal Care Products,"New York City, New York",False
+Etsy,Broadline Retail,"New York City, New York",False
+Everest Re,Reinsurance,"Hamilton, Bermuda",False
+Evergy,Electric Utilities,"Kansas City, Missouri",False
+Eversource,Electric Utilities,"Hartford, Connecticut",False
+Exelon,Electric Utilities,"Chicago, Illinois",False
+Expedia Group,"Hotels, Resorts & Cruise Lines","Seattle, Washington",False
+Expeditors International,Air Freight & Logistics,"Seattle, Washington",False
+ExxonMobil,Integrated Oil & Gas,"Irving, Texas",False
+"F5, Inc.",Communications Equipment,"Seattle, Washington",False
+FactSet,Financial Exchanges & Data,"Norwalk, Connecticut",False
+Fastenal,Trading Companies & Distributors,"Winona, Minnesota",False
+FedEx,Air Freight & Logistics,"Memphis, Tennessee",False
+Fidelity National Information Services,Transaction & Payment Processing Services,"Jacksonville, Florida",False
+Fifth Third Bank,Diversified Banks,"Cincinnati, Ohio",False
+First Solar,Semiconductors,"Tempe, Arizona",False
+FirstEnergy,Electric Utilities,"Akron, Ohio",False
+Fiserv,Transaction & Payment Processing Services,"Brookfield, Wisconsin",False
+FMC Corporation,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",False
+Ford Motor Company,Automobile Manufacturers,"Dearborn, Michigan",False
+Fortive,Industrial Machinery & Supplies & Components,"Everett, Washington",False
+Fox Corporation (Class A),Broadcasting,"New York City, New York",False
+Fox Corporation (Class B),Broadcasting,"New York City, New York",False
+Franklin Templeton,Asset Management & Custody Banks,"San Mateo, California",False
+Freeport-McMoRan,Copper,"Phoenix, Arizona",False
+Garmin,Consumer Electronics,"Schaffhausen, Switzerland",False
+GE Aerospace,Aerospace & Defense,"Evendale, Ohio",False
+GE HealthCare,Health Care Equipment,"Chicago, Illinois",False
+GE Vernova,Heavy Electrical Equipment,"Cambridge, Massachusetts",False
+Generac,Electrical Components & Equipment,"Waukesha, Wisconsin",False
+General Dynamics,Aerospace & Defense,"Falls Church, Virginia",False
+General Mills,Packaged Foods & Meats,"Golden Valley, Minnesota",False
+General Motors,Automobile Manufacturers,"Detroit, Michigan",False
+Genuine Parts Company,Distributors,"Atlanta, Georgia",False
+Gilead Sciences,Biotechnology,"Foster City, California",False
+Global Payments,Transaction & Payment Processing Services,"Atlanta, Georgia",False
+Globe Life,Life & Health Insurance,"McKinney, Texas",False
+Goldman Sachs,Investment Banking & Brokerage,"New York City, New York",False
+Halliburton,Oil & Gas Equipment & Services,"Houston, Texas",False
+Hartford (The),Property & Casualty Insurance,"Hartford, Connecticut",False
+Hasbro,Leisure Products,"Pawtucket, Rhode Island",False
+HCA Healthcare,Health Care Facilities,"Nashville, Tennessee",False
+Henry Schein,Health Care Distributors,"Melville, New York",False
+Hershey's,Packaged Foods & Meats,"Hershey, Pennsylvania",False
+Hess Corporation,Integrated Oil & Gas,"New York City, New York",False
+Hilton Worldwide,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",False
+Hologic,Health Care Equipment,"Marlborough, Massachusetts",False
+Home Depot (The),Home Improvement Retail,"Atlanta, Georgia",False
+Honeywell,Industrial Conglomerates,"Charlotte, North Carolina",False
+Hormel Foods,Packaged Foods & Meats,"Austin, Minnesota",False
+Howmet Aerospace,Aerospace & Defense,"Pittsburgh, Pennsylvania",False
+Hubbell Incorporated,Industrial Machinery & Supplies & Components,"Shelton, Connecticut",False
+Humana,Managed Health Care,"Louisville, Kentucky",False
+Huntington Bancshares,Regional Banks,"Columbus, Ohio; Detroit, Michigan",False
+Huntington Ingalls Industries,Aerospace & Defense,"Newport News, Virginia",False
+IDEX Corporation,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",False
+Idexx Laboratories,Health Care Equipment,"Westbrook, Maine",False
+Illinois Tool Works,Industrial Machinery & Supplies & Components,"Glenview, Illinois",False
+Illumina,Life Sciences Tools & Services,"San Diego, California",False
+Incyte,Biotechnology,"Wilmington, Delaware",False
+Ingersoll Rand,Industrial Machinery & Supplies & Components,"Davidson, North Carolina",False
+Insulet,Health Care Equipment,"Acton, Massachusetts",False
+Intel,Semiconductors,"Santa Clara, California",False
+Intercontinental Exchange,Financial Exchanges & Data,"Atlanta, Georgia",False
+International Flavors & Fragrances,Specialty Chemicals,"New York City, New York",False
+International Paper,Paper & Plastic Packaging Products & Materials,"Memphis, Tennessee",False
+Interpublic Group of Companies (The),Advertising,"New York City, New York",False
+Intuitive Surgical,Health Care Equipment,"Sunnyvale, California",False
+Invesco,Asset Management & Custody Banks,"Atlanta, Georgia",False
+IQVIA,Life Sciences Tools & Services,"Durham, North Carolina",False
+J.B. Hunt,Cargo Ground Transportation,"Lowell, Arkansas",False
+Jabil,Electronic Manufacturing Services,"St. Petersburg, Florida",False
+Jack Henry & Associates,Transaction & Payment Processing Services,"Monett, Missouri",False
+Jacobs Solutions,Construction & Engineering,"Dallas, Texas",False
+Johnson & Johnson,Pharmaceuticals,"New Brunswick, New Jersey",False
+Johnson Controls,Building Products,"Cork, Ireland",False
+JPMorgan Chase,Diversified Banks,"New York City, New York",False
+Juniper Networks,Communications Equipment,"Sunnyvale, California",False
+Kellanova,Packaged Foods & Meats,"Chicago, Illinois",False
+Kenvue,Personal Care Products,"Skillman, New Jersey",False
+Keurig Dr Pepper,Soft Drinks & Non-alcoholic Beverages,"Burlington, Massachusetts",False
+KeyCorp,Regional Banks,"Cleveland, Ohio",False
+Kimberly-Clark,Household Products,"Irving, Texas",False
+Kinder Morgan,Oil & Gas Storage & Transportation,"Houston, Texas",False
+KLA Corporation,Semiconductor Materials & Equipment,"Milpitas, California",False
+Kraft Heinz,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",False
+Kroger,Food Retail,"Cincinnati, Ohio",False
+L3Harris,Aerospace & Defense,"Melbourne, Florida",False
+LabCorp,Health Care Services,"Burlington, North Carolina",False
+Lam Research,Semiconductor Materials & Equipment,"Fremont, California",False
+Lamb Weston,Packaged Foods & Meats,"Eagle, Idaho",False
+Las Vegas Sands,Casinos & Gaming,"Las Vegas, Nevada",False
+Leidos,Diversified Support Services,"Reston, Virginia",False
+Lennar,Homebuilding,"Miami, Florida",False
+Linde plc,Industrial Gases,"Guildford, United Kingdom",False
+Live Nation Entertainment,Movies & Entertainment,"Beverly Hills, California",False
+LKQ Corporation,Distributors,"Chicago, Illinois",False
+Lockheed Martin,Aerospace & Defense,"Bethesda, Maryland",False
+Loews Corporation,Multi-line Insurance,"New York City, New York",False
+Lowe's,Home Improvement Retail,"Mooresville, North Carolina",False
+Lululemon Athletica,"Apparel, Accessories & Luxury Goods","Vancouver, Canada",False
+LyondellBasell,Specialty Chemicals,"Rotterdam, Netherlands",False
+M&T Bank,Regional Banks,"Buffalo, New York",False
+Marathon Oil,Oil & Gas Exploration & Production,"Houston, Texas",False
+Marathon Petroleum,Oil & Gas Refining & Marketing,"Findlay, Ohio",False
+MarketAxess,Financial Exchanges & Data,"New York City, New York",False
+Marriott International,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",False
+Marsh McLennan,Insurance Brokers,"New York City, New York",False
+Martin Marietta Materials,Construction Materials,"Raleigh, North Carolina",False
+Masco,Building Products,"Livonia, Michigan",False
+Mastercard,Transaction & Payment Processing Services,"Harrison, New York",False
+Match Group,Interactive Media & Services,"Dallas, Texas",False
+McCormick & Company,Packaged Foods & Meats,"Hunt Valley, Maryland",False
+McDonald's,Restaurants,"Chicago, Illinois",False
+McKesson Corporation,Health Care Distributors,"Irving, Texas",False
+Medtronic,Health Care Equipment,"Dublin, Ireland",False
+Merck & Co.,Pharmaceuticals,"Kenilworth, New Jersey",False
+Meta Platforms,Interactive Media & Services,"Menlo Park, California",False
+MetLife,Life & Health Insurance,"New York City, New York",False
+Mettler Toledo,Life Sciences Tools & Services,"Columbus, Ohio",False
+MGM Resorts,Casinos & Gaming,"Paradise, Nevada",False
+Microchip Technology,Semiconductors,"Chandler, Arizona",False
+Micron Technology,Semiconductors,"Boise, Idaho",False
+Moderna,Biotechnology,"Cambridge, Massachusetts",False
+Mohawk Industries,Home Furnishings,"Calhoun, Georgia",False
+Molina Healthcare,Managed Health Care,"Long Beach, California",False
+Molson Coors Beverage Company,Brewers,"Chicago, Illinois",False
+Mondelez International,Packaged Foods & Meats,"Chicago, Illinois",False
+Monolithic Power Systems,Semiconductors,"Kirkland, Washington",False
+Monster Beverage,Soft Drinks & Non-alcoholic Beverages,"Corona, California",False
+Moody's Corporation,Financial Exchanges & Data,"New York City, New York",False
+Morgan Stanley,Investment Banking & Brokerage,"New York City, New York",False
+Mosaic Company (The),Fertilizers & Agricultural Chemicals,"Tampa, Florida",False
+Motorola Solutions,Communications Equipment,"Chicago, Illinois",False
+MSCI,Financial Exchanges & Data,"New York City, New York",False
+"Nasdaq, Inc.",Financial Exchanges & Data,"New York City, New York",False
+Netflix,Movies & Entertainment,"Los Gatos, California",False
+Newmont,Gold,"Denver, Colorado",False
+News Corp (Class A),Publishing,"New York City, New York",False
+News Corp (Class B),Publishing,"New York City, New York",False
+NextEra Energy,Multi-Utilities,"Juno Beach, Florida",False
+"Nike, Inc.","Apparel, Accessories & Luxury Goods","Washington County, Oregon",False
+NiSource,Multi-Utilities,"Merrillville, Indiana",False
+Nordson Corporation,Industrial Machinery & Supplies & Components,"Westlake, Ohio",False
+Norfolk Southern Railway,Rail Transportation,"Atlanta, Georgia",False
+Northern Trust,Asset Management & Custody Banks,"Chicago, Illinois",False
+Northrop Grumman,Aerospace & Defense,"West Falls Church, Virginia",False
+Norwegian Cruise Line Holdings,"Hotels, Resorts & Cruise Lines","Miami, Florida",False
+NRG Energy,Independent Power Producers & Energy Traders,"Houston, Texas",False
+Nucor,Steel,"Charlotte, North Carolina",False
+Nvidia,Semiconductors,"Santa Clara, California",False
+"NVR, Inc.",Homebuilding,"Reston, Virginia",False
+NXP Semiconductors,Semiconductors,"Eindhoven, Netherlands",False
+O'Reilly Auto Parts,Automotive Retail,"Springfield, Missouri",False
+Occidental Petroleum,Oil & Gas Exploration & Production,"Houston, Texas",False
+Old Dominion,Cargo Ground Transportation,"Thomasville, North Carolina",False
+Omnicom Group,Advertising,"New York City, New York",False
+ON Semiconductor,Semiconductors,"Phoenix, Arizona",False
+ONEOK,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",False
+Otis Worldwide,Industrial Machinery & Supplies & Components,"Farmington, Connecticut",False
+Paccar,Construction Machinery & Heavy Transportation Equipment,"Bellevue, Washington",False
+Packaging Corporation of America,Paper & Plastic Packaging Products & Materials,"Lake Forest, Illinois",False
+Paramount Global,Movies & Entertainment,"New York City, New York",False
+Parker Hannifin,Industrial Machinery & Supplies & Components,"Cleveland, Ohio",False
+Paychex,Human Resource & Employment Services,"Penfield, New York",False
+Paycom,Human Resource & Employment Services,"Oklahoma City, Oklahoma",False
+PayPal,Transaction & Payment Processing Services,"San Jose, California",False
+Pentair,Industrial Machinery & Supplies & Components,"Worsley, United Kingdom",False
+PepsiCo,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",False
+Pfizer,Pharmaceuticals,"New York City, New York",False
+PG&E Corporation,Multi-Utilities,"San Francisco, California",False
+Philip Morris International,Tobacco,"New York City, New York",False
+Phillips 66,Oil & Gas Refining & Marketing,"Houston, Texas",False
+Pinnacle West,Multi-Utilities,"Phoenix, Arizona",False
+PNC Financial Services,Regional Banks,"Pittsburgh, Pennsylvania",False
+Pool Corporation,Distributors,"Covington, Louisiana",False
+PPG Industries,Specialty Chemicals,"Pittsburgh, Pennsylvania",False
+PPL Corporation,Electric Utilities,"Allentown, Pennsylvania",False
+Principal Financial Group,Life & Health Insurance,"Des Moines, Iowa",False
+Procter & Gamble,Personal Care Products,"Cincinnati, Ohio",False
+Progressive Corporation,Property & Casualty Insurance,"Mayfield Village, Ohio",False
+Prudential Financial,Life & Health Insurance,"Newark, New Jersey",False
+Public Service Enterprise Group,Electric Utilities,"Newark, New Jersey",False
+PulteGroup,Homebuilding,"Atlanta, Georgia",False
+Qorvo,Semiconductors,"Greensboro, North Carolina",False
+Quanta Services,Construction & Engineering,"Houston, Texas",False
+Qualcomm,Semiconductors,"San Diego, California",False
+Quest Diagnostics,Health Care Services,"Secaucus, New Jersey",False
+Ralph Lauren Corporation,"Apparel, Accessories & Luxury Goods","New York City, New York",False
+Raymond James,Investment Banking & Brokerage,"St. Petersburg, Florida",False
+RTX Corporation,Aerospace & Defense,"Waltham, Massachusetts",False
+Regeneron,Biotechnology,"Tarrytown, New York",False
+Regions Financial Corporation,Regional Banks,"Birmingham, Alabama",False
+Republic Services,Environmental & Facilities Services,"Phoenix, Arizona",False
+ResMed,Health Care Equipment,"San Diego, California",False
+Revvity,Health Care Equipment,"Waltham, Massachusetts",False
+Robert Half,Human Resource & Employment Services,"Menlo Park, California",False
+Rockwell Automation,Electrical Components & Equipment,"Milwaukee, Wisconsin",False
+"Rollins, Inc.",Environmental & Facilities Services,"Atlanta, Georgia",False
+Ross Stores,Apparel Retail,"Dublin, California",False
+Royal Caribbean Group,"Hotels, Resorts & Cruise Lines","Miami, Florida",False
+S&P Global,Financial Exchanges & Data,"New York City, New York",False
+Schlumberger,Oil & Gas Equipment & Services,"Houston, Texas",False
+Sempra Energy,Multi-Utilities,"San Diego, California",False
+Sherwin-Williams,Specialty Chemicals,"Cleveland, Ohio",False
+Skyworks Solutions,Semiconductors,"Irvine, California",False
+J.M. Smucker Company (The),Packaged Foods & Meats,"Orrville, Ohio",False
+Snap-on,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",False
+Solventum,Health Care Technology,"Saint Paul, Minnesota",False
+Southern Company,Electric Utilities,"Atlanta, Georgia",False
+Southwest Airlines,Passenger Airlines,"Dallas, Texas",False
+Stanley Black & Decker,Industrial Machinery & Supplies & Components,"New Britain, Connecticut",False
+Starbucks,Restaurants,"Seattle, Washington",False
+State Street Corporation,Asset Management & Custody Banks,"Boston, Massachusetts",False
+Steel Dynamics,Steel,"Fort Wayne, Indiana",False
+Steris,Health Care Equipment,"Dublin, Ireland",False
+Stryker Corporation,Health Care Equipment,"Kalamazoo, Michigan",False
+Synchrony Financial,Consumer Finance,"Stamford, Connecticut",False
+Sysco,Food Distributors,"Houston, Texas",False
+T-Mobile US,Wireless Telecommunication Services,"Bellevue, Washington",False
+T. Rowe Price,Asset Management & Custody Banks,"Baltimore, Maryland",False
+Take-Two Interactive,Interactive Home Entertainment,"New York City, New York",False
+"Tapestry, Inc.","Apparel, Accessories & Luxury Goods","New York City, New York",False
+Targa Resources,Oil & Gas Storage & Transportation,"Houston, Texas",False
+Target Corporation,Consumer Staples Merchandise Retail,"Minneapolis, Minnesota",False
+TE Connectivity,Electronic Manufacturing Services,"Schaffhausen, Switzerland",False
+Teleflex,Health Care Equipment,"Wayne, Pennsylvania",False
+Teradyne,Semiconductor Materials & Equipment,"North Reading, Massachusetts",False
+"Tesla, Inc.",Automobile Manufacturers,"Austin, Texas",False
+Texas Instruments,Semiconductors,"Dallas, Texas",False
+Textron,Aerospace & Defense,"Providence, Rhode Island",False
+Thermo Fisher Scientific,Life Sciences Tools & Services,"Waltham, Massachusetts",False
+TJX Companies,Apparel Retail,"Framingham, Massachusetts",False
+Tractor Supply,Other Specialty Retail,"Brentwood, Tennessee",False
+Trane Technologies,Building Products,"Dublin, Ireland",False
+TransDigm Group,Aerospace & Defense,"Cleveland, Ohio",False
+Travelers Companies (The),Property & Casualty Insurance,"New York City, New York",False
+Truist,Regional Banks,"Charlotte, North Carolina",False
+Tyson Foods,Packaged Foods & Meats,"Springdale, Arkansas",False
+U.S. Bank,Diversified Banks,"Minneapolis, Minnesota",False
+Uber,Passenger Ground Transportation,"San Francisco, California",False
+Ulta Beauty,Other Specialty Retail,"Bolingbrook, Illinois",False
+Union Pacific Corporation,Rail Transportation,"Omaha, Nebraska",False
+United Airlines Holdings,Passenger Airlines,"Chicago, Illinois",False
+United Parcel Service,Air Freight & Logistics,"Sandy Springs, Georgia",False
+United Rentals,Trading Companies & Distributors,"Stamford, Connecticut",False
+UnitedHealth Group,Managed Health Care,"Minnetonka, Minnesota",False
+Universal Health Services,Health Care Facilities,"King of Prussia, Pennsylvania",False
+Valero Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",False
+Veralto,Environmental & Facilities Services,"Waltham, Massachusetts",False
+Verisk,Research & Consulting Services,"Jersey City, New Jersey",False
+Verizon,Integrated Telecommunication Services,"New York City, New York",False
+Vertex Pharmaceuticals,Biotechnology,"Cambridge, Massachusetts",False
+Viatris,Pharmaceuticals,"Pittsburgh, Pennsylvania",False
+Visa Inc.,Transaction & Payment Processing Services,"San Francisco, California",False
+Vistra,Electric Utilities,"Irving, Texas",False
+Vulcan Materials Company,Construction Materials,"Birmingham, Alabama",False
+W. R. Berkley Corporation,Property & Casualty Insurance,"Greenwich, Connecticut",False
+W. W. Grainger,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",False
+Wabtec,Construction Machinery & Heavy Transportation Equipment,"Pittsburgh, Pennsylvania",False
+Walgreens Boots Alliance,Drug Retail,"Deerfield, Illinois",False
+Walmart,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",False
+Walt Disney Company (The),Movies & Entertainment,"Burbank, California",False
+Warner Bros. Discovery,Broadcasting,"New York City, New York",False
+Waste Management,Environmental & Facilities Services,"Houston, Texas",False
+Waters Corporation,Life Sciences Tools & Services,"Milford, Massachusetts",False
+WEC Energy Group,Electric Utilities,"Milwaukee, Wisconsin",False
+Wells Fargo,Diversified Banks,"San Francisco, California",False
+West Pharmaceutical Services,Health Care Supplies,"Exton, Pennsylvania",False
+WestRock,Paper & Plastic Packaging Products & Materials,"Atlanta, Georgia",False
+Williams Companies,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",False
+Willis Towers Watson,Insurance Brokers,"London, United Kingdom",False
+Wynn Resorts,Casinos & Gaming,"Paradise, Nevada",False
+Xcel Energy,Multi-Utilities,"Minneapolis, Minnesota",False
+Xylem Inc.,Industrial Machinery & Supplies & Components,"White Plains, New York",False
+Yum! Brands,Restaurants,"Louisville, Kentucky",False
+Zimmer Biomet,Health Care Equipment,"Warsaw, Indiana",False
+Zoetis,Pharmaceuticals,"Parsippany, New Jersey",False
