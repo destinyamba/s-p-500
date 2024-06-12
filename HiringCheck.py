@@ -13,9 +13,9 @@ def check_hiring(company_name):
     soup = BeautifulSoup(response.text, 'html.parser')
     
     # Analyze search results
-    for item in soup.select('div'):
+    for item in soup.select('div.yuRUbf'):
         text = item.get_text().lower()
-        if " " in text or "software developer" in text or "developer" in text:
+        if "software engineer" in text or "software developer" in text or "developer" in text:
             return True
     return False 
 
